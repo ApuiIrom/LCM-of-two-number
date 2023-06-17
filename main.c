@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int j=2,n1=1000,n2=1000,lcm=1,i,l;
+int j=2,n1=98,n2=42,lcm=1,i,l;
 i=n1,l=n2;
 while(j!=10){
     for(j=2;j<=9;j++)
